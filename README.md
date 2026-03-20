@@ -1,5 +1,4 @@
-# Newsportal
-a newsportal site for nepal and world
+# NewsPortal (PHP + MySQL)
 
 Nepal + World news portal with search and an admin panel (CRUD).
 
