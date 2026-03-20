@@ -29,6 +29,7 @@ yeti ta tha hola
 
 ## Notes
 
+#ADMIN PASSWORD - admin 123  ///// basic xa but improve in future.
 Update DB credentials and base URL in `app/config.php` if needed.
 
 and sometime learn yourself for better future .
