@@ -1,22 +1,22 @@
 # NewsPortal (PHP + MySQL)
 
-Nepal + World news portal with search and an admin panel (CRUD).
-
 ## Requirements
 
 - XAMPP (Apache + MySQL + PHP)
-- phpMyAdmin
+- phpMyAdmin 
+
+yeti ta tha hola 
 
 ## Setup
 
-1. Start **Apache** and **MySQL** from XAMPP Control Panel.
+1. Start **Apache** and **MySQL** from XAMPP
 2. Open phpMyAdmin: `http://localhost/phpmyadmin`
 3. Import SQL: `database/install.sql` (v2 schema: users + moderation).
-4. (Optional) Import demo news: `database/seed_news.sql`
+4. (Optional) Import news: `database/seed_news.sql`
 5. Visit site: `http://localhost/newsportal/`
 6. Admin login: `http://localhost/newsportal/admin/login.php`
 
-## Project structure
+## Project structure yesto hunxa 
 
 - `index.php`: homepage (featured + Nepal + world)
 - `news.php`: single news page
@@ -29,6 +29,8 @@ Nepal + World news portal with search and an admin panel (CRUD).
 
 ## Notes
 
-- Update DB credentials and base URL in `app/config.php` if needed.
-- Uploaded images are stored in `assets/uploads/YYYY/MM/`.
+Update DB credentials and base URL in `app/config.php` if needed.
+
+and sometime learn yourself for better future .
+
 
